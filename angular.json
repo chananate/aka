@@ -11,7 +11,7 @@
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
-        } //มึงมันเหี้ย
+        } //มึงมันเหี้ย รอบ 2
       },
       "architect": {
         "build": {
